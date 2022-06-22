@@ -13,3 +13,7 @@ Todo list : https://codepen.io/lakalu/pen/xxYNxdE
 
 Calc : https://codepen.io/lakalu/pen/rNJgabv
 
+<h1>Map Reduce Filter Find</h1>
+<br>
+<img height="500" src="https://pbs.twimg.com/media/EfdJd2zUEAAP8aE?format=jpg&name=4096x4096">
+<br>
